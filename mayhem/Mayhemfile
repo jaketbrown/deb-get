@@ -1,0 +1,6 @@
+project: deb-get
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme
+
