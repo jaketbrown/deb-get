@@ -2,5 +2,5 @@ project: deb-get
 target: fuzzme
 
 cmds:
-  - cmd: /deb-get --help
+  - cmd: /deb-get help
 
