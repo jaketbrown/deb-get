@@ -1,6 +1,6 @@
 project: deb-get
-target: deb-get
+target: /usr/bin/deb-get
 
 cmds:
-  - cmd: /deb-get help
+  - cmd: /usr/bin/deb-get
 
